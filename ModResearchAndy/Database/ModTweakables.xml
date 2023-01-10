@@ -1,0 +1,9 @@
+﻿<Database>
+    <!-- Override the default tweakable value -->
+    <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT">
+        <Value>0.12</Value>
+    </GameDBTweakableFloat>
+    <GameDBTweakableFloat ID="DLC_TRAINING_HOURLY_IMPROVEMENT_FAST_LEARNER">
+        <Value>0.2</Value>
+    </GameDBTweakableFloat>
+</Database> 

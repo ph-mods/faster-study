@@ -1,0 +1,21 @@
+﻿<Database>
+    <GameDBStringTable ID="FASTER_RESEARCH_ANDY_MOD">
+
+        <LanguageCode>en</LanguageCode>
+        <LanguageNameLocalized>English</LanguageNameLocalized>
+
+        <Contributors>
+            <Name>Andreas Fritz</Name>
+        </Contributors>
+
+        <LocalizedStrings>
+
+            <GameDBLocalizedString>
+                <LocID>FASTER_RESEARCH_ANDY_MOD</LocID>
+                <Text>Faster Study</Text>
+            </GameDBLocalizedString>
+
+        </LocalizedStrings>
+    </GameDBStringTable>
+
+</Database>
